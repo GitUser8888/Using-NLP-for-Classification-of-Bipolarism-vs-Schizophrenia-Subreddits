@@ -5,6 +5,8 @@ This project is done as part of the Data Science Immersive course in General Ass
 ### Project Objectives:
  We are tasked in using Natural Language Processing (NLP) to build a model that classifies if a reddit post belongs to r/schizophrenia or r/bipolar.
 
+---
+
 ### Background
 To diagnose and assess mental health conditions, clinicians rely on:
 
@@ -77,6 +79,7 @@ The full information could be found in the data dictionary below.
 | Score  | Score of the reddit post      | Numeric (integer) | 8, 9, 65, ...            |
 | Label  | Labelling of 0,1 corresponding to schizophrenia or bipolar respectively | Numeric (integer) | 0,1 |
 
+---
 
 ### Model Summary:
 |Count Vectorization Method|Model|Train Scores|Test scores
@@ -94,7 +97,7 @@ The full information could be found in the data dictionary below.
 |TF-IDF|Adaptive Boosting|0.8248|0.7867|
 |TF-IDF|Gradient Boosting|0.8836|0.7953|
 
-
+---
 
 ### Key takeaways from the project:
 1. We tried out NLP as a way of converting and understanding mental health conditions
