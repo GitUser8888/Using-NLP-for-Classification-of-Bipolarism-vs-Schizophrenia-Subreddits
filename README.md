@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Web APIs & NLP
 
-This project is done as part of the Data Science Immersive course in General Assembly, and was completed in a short time frame of only 2 weeks.
+This project was done as part of the Data Science Immersive course in General Assembly, and was completed in a short time frame of only 2 weeks.
 
 ### Project Objectives:
  We are tasked in using Natural Language Processing (NLP) to build a model that classifies if a reddit post belongs to r/schizophrenia or r/bipolar.
