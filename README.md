@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Web APIs & NLP
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Classification of Bipolarism and Schizophrenia Subreddits using Natural Language Processing (NLP)
 
 This project was done as part of the Data Science Immersive course in General Assembly, and was completed in a short time frame of only 2 weeks.
 
